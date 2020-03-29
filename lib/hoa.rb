@@ -6,6 +6,7 @@ BASE_HOA = {
 
 
 def add_character(show, name)
-  # Write your implementation here
-  # Should return the array of the 'show' argument
+  not_constant_variable = BASE_HOA
+  not_constant_variable[show] << name
+  not_constant_variable[show]
 end
