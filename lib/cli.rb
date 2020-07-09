@@ -614,6 +614,7 @@ def menu_items
                 puts "\nIt looks like the account you entered is not in our system, please try again"
             delete_account
             end 
+        menu_exit
     end
 
 
