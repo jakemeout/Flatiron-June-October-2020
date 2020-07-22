@@ -1,0 +1,5 @@
+<h1>Scientists</h1>
+
+<% @scientists.each_with_index do |item, i| %>
+  <%= link_to "#{i+1}.  #{item.name}", scientist_path(item) %><br>
+<% end %>
