@@ -1,0 +1,20 @@
+<h1>Who is the Artist?</h1>
+
+<%= form_for @artist do |f| %>
+<%= f.label :Name %>
+<%= f.text_field :name %>
+<br>
+<%= f.label :Title %>
+<%= f.text_field :title %>
+<br>
+<%= f.label :Age %>
+<%= f.text_field :age %>
+<br>
+<%= f.submit %>
+<% end %>
+
+<% if flash[:error] %>
+<% flash[:error].each do |err| %>
+<li><%= err %></li>
+<% end %>
+<% end %>
