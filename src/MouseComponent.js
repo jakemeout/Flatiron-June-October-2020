@@ -10,6 +10,7 @@ export default class MouseComponent extends Component {
     return (
       <div className="bar" id="mouse">
         <canvas id="canvas"></canvas>
+       
       </div>
     )
   }
