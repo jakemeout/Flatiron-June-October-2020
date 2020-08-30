@@ -11,6 +11,7 @@ import data from './data'
 class App extends React.Component{
 
   state = {
+    data: data,
     display: false
   }
 
@@ -19,6 +20,35 @@ class App extends React.Component{
     this.setState({
       display: newBoolean
     })
+  
+  }
+
+  likeToy = (toyObj) =>{
+    this.state.data.find(toy => toy.id === toyObj.id).likes ++
+    this.setState({
+      data: data
+    })
+  }
+
+  donateToGoodwill = (key) => {
+  
+    this.setState({
+     data: this.state.data.filter(data => data.id !== key )
+    },() => console.log(this.state.data))
+  }
+
+  handleSubmit = (event) => {
+    event.preventDefault()
+    let newToyObj = {
+      id : this.state.toys.length + 1,
+      name: event.target.name.value,
+      image: event.target.image.value
+    }
+
+    this.setState({
+      data: [...data, newToyObj]
+    })
+
   }
 
   render(){
@@ -27,14 +57,14 @@ class App extends React.Component{
         <Header/>
         { this.state.display
             ?
-          <ToyForm/>
+          <ToyForm handleSubmit={this.handleSubmit}/>
             :
           null
         }
         <div className="buttonContainer">
           <button onClick={this.handleClick}> Add a Toy </button>
         </div>
-        <ToyContainer/>
+        <ToyContainer toys={this.state.data} donateToGoodwill={this.donateToGoodwill} like={this.likeToy}/>
       </>
     );
   }
