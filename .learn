@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -22,3 +23,13 @@ languages:
   - react
 resources: 2
 >>>>>>> e0b4c77e7b06a8e15aa334891b8cd86daaed1aba
+=======
+tags:
+  - activerecord
+  - playlister
+  - orm
+  - associations
+languages:
+  - ruby
+resources: 2
+>>>>>>> 315045e919e83c20b7ba8ac28b3df352360a20eb
