@@ -224,6 +224,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1994,3 +1995,14 @@ languages:
   - sql
 resources: 0
 >>>>>>> 44ef01ab0e874afc10c30688f47f1e9c00ed749b
+=======
+tags:
+  - sql
+  - introductory
+  - select
+  - insert
+  - create
+languages:
+  - sql
+resources: 1
+>>>>>>> 203f9e41459188b96c330376403200fc6026570c
