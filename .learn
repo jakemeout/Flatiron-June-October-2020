@@ -144,6 +144,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1291,3 +1292,13 @@ resources: 0
 >>>>>>> 7cc246bf2dd81b6cad5d3d5faed61950e5fadb21
 =======
 >>>>>>> dbca60fca99aec6e0f043a7af41f7ba8bac1be7e
+=======
+tags:
+  - react
+  - component
+  - lifecycle
+languages:
+  - javascript
+  - jsx
+resources: 0
+>>>>>>> d78e355c960ebe47ca1db51e74871ccf1bf157de
