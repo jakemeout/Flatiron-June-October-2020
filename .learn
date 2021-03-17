@@ -153,6 +153,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1370,8 +1371,17 @@ tags:
   - javascript
   - react
   - forms
+=======
+tags:
+  - javascript
+  - react
+  - react-state
+>>>>>>> aea8687d9c6fa78a074bf94db0e354ff39bf4674
 languages:
   - javascript
 resources:
   - 1
+<<<<<<< HEAD
 >>>>>>> ff5c7e6a96cc8e88fe96cedcbd7d63cd2cceecb6
+=======
+>>>>>>> aea8687d9c6fa78a074bf94db0e354ff39bf4674
