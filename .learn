@@ -66,6 +66,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -615,3 +616,12 @@ languages:
   - HTML
 resources: 1
 >>>>>>> 72ceb06312f1eeefdd09d92c505b354d76fac982
+=======
+tags:
+  - capybara
+  - rspec
+  - tdd
+languages:
+  - ruby
+resources: 0
+>>>>>>> 8a0fb458de9d6673083d6de38ac568dc797be90b
