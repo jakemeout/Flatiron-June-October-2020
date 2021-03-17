@@ -19,6 +19,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -199,10 +200,13 @@ resources: 0
 =======
 =======
 >>>>>>> f5587a69a4f187c1a863ba91a34edc3ce267a5aa
+=======
+>>>>>>> 5a548d012954a8ac78f04025a053df3ef1189ff4
 languages:
   - html
   - css
 tags:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - dev tools
   - developer tools
@@ -220,3 +224,11 @@ resources: 3
   - errors
 resources: 1
 >>>>>>> f5587a69a4f187c1a863ba91a34edc3ce267a5aa
+=======
+  - cascading style sheet
+  - selectors
+  - kitten
+type:
+  - lab
+resources: 0
+>>>>>>> 5a548d012954a8ac78f04025a053df3ef1189ff4
