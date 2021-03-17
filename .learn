@@ -1,3 +1,7 @@
 ---
+<<<<<<< HEAD
 languages:
 - ruby
+=======
+languages: []
+>>>>>>> 4468c169090c72ba95919ead5ecfceda6819bb72
