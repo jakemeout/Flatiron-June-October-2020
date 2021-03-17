@@ -21,6 +21,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -242,3 +243,14 @@ languages:
   - CSS
 resources: 1
 >>>>>>> d6be348f4d05f3f44f99a1dc27356e4dd2c3d311
+=======
+tags:
+  - html elements
+  - css styling
+  - css selectors
+  - importing stylesheets
+  - inheritance
+languages:
+  - html
+  - css
+>>>>>>> 3a5e97c1f41e5a08306d7ecd621f038936205c5a
