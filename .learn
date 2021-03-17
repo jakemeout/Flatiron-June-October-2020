@@ -514,10 +514,14 @@ resources: 0
 >>>>>>> d495a6f2d970745641255de6482ed8721992bdef
 =======
 tags:
-  - tag_1
-  - tag_2
+  - doc structure
 languages:
+<<<<<<< HEAD
   - language_1
   - language_1
 resources: 0
 >>>>>>> 8e2bb1635020320b815c09dd43a97996d3d614ee
+=======
+  - html
+resources: 0
+>>>>>>> 0735df60ef60f1fc28f37261e587dd80f1433f90

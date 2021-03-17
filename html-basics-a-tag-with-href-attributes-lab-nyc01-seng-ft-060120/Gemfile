@@ -4,4 +4,8 @@ source "https://rubygems.org"
 gem 'rspec', '3.6'
 gem 'pry'
 gem 'nokogiri'
+<<<<<<< HEAD:html-basics-a-tag-with-href-attributes-lab-nyc01-seng-ft-060120/Gemfile
 gem 'w3c_validators'
+=======
+gem 'w3c_validators'
+>>>>>>> 0735df60ef60f1fc28f37261e587dd80f1433f90:Gemfile
