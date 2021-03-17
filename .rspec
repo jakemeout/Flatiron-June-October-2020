@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --require spec_helper
 --format documentation
 =======
@@ -16,3 +17,7 @@
 --require spec_helper
 --format documentation
 >>>>>>> cdc6faeb04ed3ae2ecaaa8a81fce6cadfd5106b4
+=======
+--require spec_helper
+--format documentation
+>>>>>>> 8dd8d85688cbd914b29687e4acf284a0fbaaec3a
