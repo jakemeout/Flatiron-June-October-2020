@@ -67,6 +67,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -625,3 +626,12 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 8a0fb458de9d6673083d6de38ac568dc797be90b
+=======
+tags:
+  - react
+  - redux
+  - codealong
+languages:
+  - javascript
+resources: 0
+>>>>>>> 14067de4d0b27fabfecf9c7f57721b9f92f9a0ee
