@@ -223,6 +223,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1984,3 +1985,12 @@ resources: 0
 =======
 resources: 0
 >>>>>>> 22acb1921683f6badff73a36b65cc912bf799165
+=======
+tags:
+  - sql
+  - database
+languages:
+  - ruby
+  - sql
+resources: 0
+>>>>>>> 44ef01ab0e874afc10c30688f47f1e9c00ed749b
