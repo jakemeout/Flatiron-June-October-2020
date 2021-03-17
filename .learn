@@ -85,6 +85,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -782,3 +783,13 @@ type:
   - TODO
 resources: 1
 >>>>>>> 7d86f0e64ac6e1a3fd03a8618284e67726341bd8
+=======
+tags:
+  - session
+  - before_filter
+  - login
+languages:
+  - Ruby
+resources:
+  - http://guides.rubyonrails.org/action_controller_overview.html#filters
+>>>>>>> aacbf73099f68be6a618720b9472eba253244774

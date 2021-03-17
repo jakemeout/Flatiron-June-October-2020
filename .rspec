@@ -17,6 +17,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --color
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -208,3 +209,7 @@
 --format documentation
 --require spec_helper
 >>>>>>> 7d86f0e64ac6e1a3fd03a8618284e67726341bd8
+=======
+--color
+--require spec_helper
+>>>>>>> aacbf73099f68be6a618720b9472eba253244774
