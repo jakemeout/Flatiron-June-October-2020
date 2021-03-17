@@ -216,6 +216,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -335,10 +336,13 @@ resources:
 >>>>>>> 36066cd458ff94b700441d5be1907cd64de6335a
 =======
 >>>>>>> a6b7fafc1550d31c7b5a2e3fe41a47e3cb4bb126
+=======
+>>>>>>> 321052761ae1404ce740578c6c92b50495e1ab94
 tags:
   - tag1
 languages:
   - language1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1920,3 +1924,6 @@ languages:
   - sinatra
 resources: 1
 >>>>>>> db81ff98bf121c3ca632587ab662bcf75d90d87d
+=======
+resources: 0
+>>>>>>> 321052761ae1404ce740578c6c92b50495e1ab94
