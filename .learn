@@ -84,6 +84,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -190,11 +191,14 @@ languages:
 resources: 0
 >>>>>>> 5e17e88b6badad801efd07e79fdee7516e30fbef
 =======
+=======
+>>>>>>> 7d86f0e64ac6e1a3fd03a8618284e67726341bd8
 tags:
   - hashes
   - iteration
 languages:
   - ruby
+<<<<<<< HEAD
 >>>>>>> d41c11a84ad7527eeab8257bb1c8141fc27b7b55
 =======
 =======
@@ -773,3 +777,8 @@ languages:
 ---
 languages: []
 >>>>>>> b43e640778aa07b929c3880f443be9ffb84f2ee7
+=======
+type:
+  - TODO
+resources: 1
+>>>>>>> 7d86f0e64ac6e1a3fd03a8618284e67726341bd8
