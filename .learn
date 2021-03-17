@@ -28,6 +28,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -294,3 +295,10 @@ languages:
 languages:
   - none
 >>>>>>> 9339a7a12681a44da1aea430d0e3b5b6702b6816
+=======
+tags:
+- lab
+languages:
+- JavaScript
+    
+>>>>>>> 1232c04853d81a226fbc0aea1c61e43ef16c8e16

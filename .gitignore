@@ -30,6 +30,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 29c8e8be12a28c75296b1f6cd449a81592c0ee68
 =======
@@ -582,3 +583,26 @@ node_modules
 .DS_Store
 node_modules
 >>>>>>> 9339a7a12681a44da1aea430d0e3b5b6702b6816
+=======
+.DS_Store
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+lib-cov
+build/Release
+node_modules
+jspm_packages
+.npm
+.node_repl_history
+.results.json
+/.bundle
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/log/*
+!/log/.keep
+/tmp
+    
+>>>>>>> 1232c04853d81a226fbc0aea1c61e43ef16c8e16
