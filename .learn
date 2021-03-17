@@ -217,6 +217,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1927,3 +1928,14 @@ resources: 1
 =======
 resources: 0
 >>>>>>> 321052761ae1404ce740578c6c92b50495e1ab94
+=======
+tags:
+  - forms
+  - nested forms
+  - sinatra
+  - intermediate
+languages:
+  - ruby
+  - html
+resources: 2
+>>>>>>> 9a9e06af80baac6aab3ffcd3d67567d87404daa1
