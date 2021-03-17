@@ -15,6 +15,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -172,3 +173,13 @@ languages:
   - ruby
 resources: 1
 >>>>>>> a35a255d8639cc399e54bd3bee727bdecabe4b53
+=======
+tags:
+  - cookie
+  - session
+  - http
+languages:
+  - Ruby
+resources:
+  - 2
+>>>>>>> 34128d35dd63f2116f0df58fcd70b0d5054e9f98
