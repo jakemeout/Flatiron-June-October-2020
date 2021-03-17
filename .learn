@@ -158,6 +158,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1384,10 +1385,15 @@ tags:
   - react
   - react-state
 >>>>>>> aea8687d9c6fa78a074bf94db0e354ff39bf4674
+=======
+tags:
+  - javascript
+>>>>>>> 47ab6d15c94e83b23940e3dfeeb17cb538806cd7
 languages:
   - javascript
 resources:
   - 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> ff5c7e6a96cc8e88fe96cedcbd7d63cd2cceecb6
 =======
@@ -1416,3 +1422,5 @@ languages: []
 >>>>>>> df82a36ba0e971e7d6067ec0b7c2e31e41b37713
 =======
 >>>>>>> 0b9b3b29977f33230dc07a0e72b8572f9cd561d1
+=======
+>>>>>>> 47ab6d15c94e83b23940e3dfeeb17cb538806cd7

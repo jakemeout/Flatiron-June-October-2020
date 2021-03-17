@@ -12,6 +12,7 @@ insert_final_newline = true
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 indent_size = 4
 =======
 indent_size = 2
@@ -31,6 +32,9 @@ indent_size = 4
 =======
 indent_size = 4
 >>>>>>> ff5c7e6a96cc8e88fe96cedcbd7d63cd2cceecb6
+=======
+indent_size = 4
+>>>>>>> 47ab6d15c94e83b23940e3dfeeb17cb538806cd7
 
 [*.{js,json,rb}]
 charset = utf-8
