@@ -57,6 +57,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -73,10 +74,13 @@ languages: []
 languages: []
 >>>>>>> 43346227d5925d0c3fceb9311dd0144ea16f494c
 =======
+=======
+>>>>>>> 3a312d73378e01de43549c4b75d97022964d65d4
 tags:
   - bundler
   - introduction
 languages:
+<<<<<<< HEAD
   - react
 resources: 2
 >>>>>>> e0b4c77e7b06a8e15aa334891b8cd86daaed1aba
@@ -525,3 +529,6 @@ resources: 0
   - html
 resources: 0
 >>>>>>> 0735df60ef60f1fc28f37261e587dd80f1433f90
+=======
+  - ruby
+>>>>>>> 3a312d73378e01de43549c4b75d97022964d65d4
