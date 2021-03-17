@@ -59,6 +59,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -545,3 +546,11 @@ tags:
   - beginner
   
 >>>>>>> 852f4737c0fbdabed5c8bcb4fb535b4c2dad0be6
+=======
+tags:
+  - HTML
+  - img
+languages:
+  - HTML
+resources: 1
+>>>>>>> 406dbc77cdcb434b64072411995f59d325c6c7eb

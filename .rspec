@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --color
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -151,3 +152,9 @@
 --require spec_helper
 --fail-fast
 >>>>>>> 852f4737c0fbdabed5c8bcb4fb535b4c2dad0be6
+=======
+--color
+--format documentation
+--require spec_helper
+--fail-fast
+>>>>>>> 406dbc77cdcb434b64072411995f59d325c6c7eb
