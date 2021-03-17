@@ -90,6 +90,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -821,3 +822,13 @@ languages:
 ---
 languages: []
 >>>>>>> d94cb8fa58342ab6fc70b2e9cc67962bd12479a5
+=======
+tags:
+  - javascript
+  - npm
+  - package.json
+  - lab
+languages:
+  - javascript
+resources: 0
+>>>>>>> 111a48f3b7e6d8577639d05e5687f763f74bd0b9

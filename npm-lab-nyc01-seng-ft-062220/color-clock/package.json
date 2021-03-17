@@ -1,0 +1,16 @@
+{
+  "name": "momentjs",
+  "version": "2.0.0",
+  "description": "time stuff",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.27.0",
+    "momentjs": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "",
+  "license": "ISC"
+}
