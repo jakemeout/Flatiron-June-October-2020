@@ -127,6 +127,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1084,6 +1085,8 @@ resources: 0
 languages: []
 >>>>>>> 43e0d7ee4ae737e16e5422ea58d625ae59421b5c
 =======
+=======
+>>>>>>> 49bf27d9176193e0c9d70fca03d2d5788f6cab38
 tags:
   - ActiveRecord
   - create action
@@ -1094,5 +1097,9 @@ languages:
   - ruby
 type: 
   - readme
+<<<<<<< HEAD
 resources: 2
 >>>>>>> d2c425fd52d450f66d2178cea022d733a48c31bc
+=======
+resources: 0
+>>>>>>> 49bf27d9176193e0c9d70fca03d2d5788f6cab38
