@@ -184,6 +184,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1580,10 +1581,15 @@ tags:
   - class variables
   - class methods
   - object remembrance
+=======
+tags:
+  - instance variables
+>>>>>>> ba02cf5aea8ded848f137080975ddbc67731931d
 languages: 
   - Ruby
 resources:
   - 0
+<<<<<<< HEAD
 >>>>>>> 850aa3ee33f76181868b4a79eec32333d216c8fa
 =======
 tags:
@@ -1644,3 +1650,5 @@ resources: 0
 languages:
   - ruby
 >>>>>>> 0314c8f0448d4437e3ca66e6f09fb564176645d7
+=======
+>>>>>>> ba02cf5aea8ded848f137080975ddbc67731931d
