@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -61,3 +62,12 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 129aaffaef2ef69f2a70ff364e055ccea6f0a615
+=======
+tags:
+  - orm
+  - active record
+languages:
+  - Ruby
+resources:
+  - 0
+>>>>>>> cdc6faeb04ed3ae2ecaaa8a81fce6cadfd5106b4
