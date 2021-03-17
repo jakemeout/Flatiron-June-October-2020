@@ -189,6 +189,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1678,6 +1679,8 @@ resources:
   - 0
 >>>>>>> 6c74233e82d530934289b0007dd8213dc8ed0b7a
 =======
+=======
+>>>>>>> 17e25fc44e0b8573d7450ed6f4caf74bf5bf2adc
 tags:
   - inheritance
   - super
@@ -1685,4 +1688,7 @@ tags:
 languages:
   - ruby
 resources: 0
+<<<<<<< HEAD
 >>>>>>> 752b2897e4002e3904792a1e6e671e8d06bbd042
+=======
+>>>>>>> 17e25fc44e0b8573d7450ed6f4caf74bf5bf2adc
