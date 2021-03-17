@@ -204,6 +204,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1818,3 +1819,14 @@ resources: 1
 languages: 
   - ruby
 >>>>>>> 59b05eebe77855122531707dd6ab6ac45ca40bc0
+=======
+tags:
+  - sinatra
+  - activerecord
+  - migrations
+  - sqlite3
+languages:
+  - ruby
+resources:
+  - 0
+>>>>>>> 0f8ef317b6e07e47672aba3ccf9ca62a8a293648
