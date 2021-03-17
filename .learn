@@ -141,6 +141,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1243,12 +1244,15 @@ tags:
   - routing
   - pages
 =======
+=======
+>>>>>>> 087a26579c57c89594a94d64e38f4d0129b26b18
 tags:
   - url helpers
   - routing
   - rake routes
   - routing conventions
   - custom routes
+<<<<<<< HEAD
 >>>>>>> 751146d8e17e77c65fb5bf8d8532c2aabe675e45
 languages:
   - ruby
@@ -1260,3 +1264,11 @@ resources: 0
 =======
 resources: 2
 >>>>>>> 751146d8e17e77c65fb5bf8d8532c2aabe675e45
+=======
+languages:
+  - ruby
+resources:
+  - 0
+type: 
+  - readme
+>>>>>>> 087a26579c57c89594a94d64e38f4d0129b26b18
