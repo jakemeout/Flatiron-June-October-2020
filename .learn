@@ -76,6 +76,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -713,3 +714,11 @@ languages:
   - javascript
 resources: 5
 >>>>>>> 7a21c89a8cd25de13c642411b230e195cf173309
+=======
+tags:
+- code-along
+- rails
+- api
+languages:
+- ruby
+>>>>>>> bf24493fb01e5ea6ad8047c792cbfd857179f1a4
