@@ -72,6 +72,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -667,3 +668,13 @@ languages:
   - ruby
 resources: 1
 >>>>>>> bfb9678a861b3dde3d4a44d463eaf63aa21771df
+=======
+tags:
+  - javascript
+  - js
+  - loops
+languages:
+  - JavaScript
+resources: 
+  - 0
+>>>>>>> 168e7e35db52053ec4fd6aa366aedeaee50afa19
