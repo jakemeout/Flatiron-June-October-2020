@@ -35,6 +35,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -341,3 +342,7 @@ languages:
 >>>>>>> 3c47e42b950b605cc3096a39ea8b49749fc0c466
 =======
 >>>>>>> 1cc0ba46a5dadb9589d2b5de5fddb2d5233f073e
+=======
+languages:
+  - javascript
+>>>>>>> a9aaa4822432a6d39f728004a107f73cd4395c6b
