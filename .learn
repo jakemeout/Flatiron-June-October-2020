@@ -220,6 +220,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1956,3 +1957,13 @@ languages:
   - ruby
 resources: []
 >>>>>>> b26c96b1097d45bac9fed992de331ad4e32fbfda
+=======
+tags:
+  - sinatra
+  - views
+  - controllers
+  - instance variables
+  - erb
+languages:
+  - ruby
+>>>>>>> 2d33e12993a343e64e32eff82ffc9ac410a676ee
