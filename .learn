@@ -205,6 +205,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1830,3 +1831,10 @@ languages:
 resources:
   - 0
 >>>>>>> 0f8ef317b6e07e47672aba3ccf9ca62a8a293648
+=======
+tags:
+  - sinatra
+languages:
+  - ruby
+resources: 0
+>>>>>>> 431dab51c94f26a4e0712abb033d85b03495ea87
