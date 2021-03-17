@@ -1,8 +1,24 @@
 ---
 1: |
+<<<<<<< HEAD
   <<-MSG 
   MSG
 
 2: |
   <<-MSG 
+=======
+  <<-MSG
+    expected: not nil
+    got: #{value.inspect}
+
+    Did you code an <h1>Tag</h1> in index.html?
+  MSG
+
+2: |
+  <<-MSG
+    expected: "Hello, World!"
+    got: #{value.inspect}
+
+    Does your H1 have exactly \"Hello, World!\" inside the opening and closing tag?
+>>>>>>> 8e2bb1635020320b815c09dd43a97996d3d614ee
   MSG

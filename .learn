@@ -56,6 +56,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -511,3 +512,12 @@ languages:
   - html
 resources: 0
 >>>>>>> d495a6f2d970745641255de6482ed8721992bdef
+=======
+tags:
+  - tag_1
+  - tag_2
+languages:
+  - language_1
+  - language_1
+resources: 0
+>>>>>>> 8e2bb1635020320b815c09dd43a97996d3d614ee
