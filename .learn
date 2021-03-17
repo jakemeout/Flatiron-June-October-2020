@@ -112,6 +112,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -983,3 +984,13 @@ resources: 2
 >>>>>>> f0812f6a4d8229d0fdde1700f99e2f6ea8ac677c
 =======
 >>>>>>> 0fae82ef901275e86d2a6d4d00a47bce5b333f8a
+=======
+languages:
+  - ruby
+tags:
+  - collections
+  - arrays
+  - hashes
+  - named parameters
+  - advanced
+>>>>>>> 653dd891324c6cb6845659855218760ed27fc63a
