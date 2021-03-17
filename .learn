@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -89,3 +90,10 @@ languages:
 resources: 
   - 0
 >>>>>>> fc73aedc953e32723c3c19ddbc1599e7bb73fac8
+=======
+tags:
+  - tag1
+languages:
+  - language1
+resources: 0
+>>>>>>> 5e17e88b6badad801efd07e79fdee7516e30fbef
