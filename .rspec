@@ -25,6 +25,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --color
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -261,3 +262,8 @@
 =======
 --fail-fast
 >>>>>>> a06226df9425eb2e792ea35101825dc27e7a66f3
+=======
+--color
+--format documentation
+--fail-fast
+>>>>>>> f0812f6a4d8229d0fdde1700f99e2f6ea8ac677c
