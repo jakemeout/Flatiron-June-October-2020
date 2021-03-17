@@ -97,50 +97,20 @@ the last element from the array and return that element.
 
 ### `pop_with_args`
 
-This method takes in an parameter of an `Array` and uses the `.pop` method with an
-parameter of 2 to remove the last two array items and return them.
+This method takes in a parameter of an `Array` and uses the `.pop` method. This
+time, however, pass an argument, `2`, into `.pop` to remove the last _two_ array
+items and return them.
 
 ### `using_shift`
 
-This method takes in an parameter of an `Array` and uses the `.shift` method to
+This method takes in a parameter of an `Array` and uses the `.shift` method to
 remove the first item and return it.
 
 ### `shift_with_args`
 
-This method takes in an parameter of an `Array` and uses the `.shift` method with
-an parameter of 2 to remove and return the first 2 items from the array.
-
-### `using_concat`
-
-This method takes in two parameters of two different arrays and uses the
-`.concat` method to add the contents of the second array to the first.
-
-### `using_insert`
-
-This method takes in two parameters, an `Array` and a new element to be added to
-the array. it uses the `.insert` method to add the new element to the 4th index
-of the array.
-
-### `using_uniq`
-
-This method takes in an parameter of an `Array` and uses the `.uniq` method to
-remove any duplicate items.
-
-### `using_flatten`
-
-This method takes in an parameter of an `Array` that contains other arrays and
-uses the `.flatten` method to return an array of strings.
-
-### `using_delete`
-
-This method takes in two parameters, an `Array` and a `String`, and uses the
-`.delete` method to remove any items from the array that are equal to that
-string.
-
-### `using_delete_at`
-
-This method takes in two parameters, an `Array` and an `Integer` and deletes the
-element at the index of the array that is equal to that integer.
+This method takes in a parameter of an `Array` and uses the `.shift` method.
+This time, pass an argument, `2`, into `.shift` to remove and return the first
+_two_ items from the array.
 
 ## Conclusion
 
