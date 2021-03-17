@@ -170,6 +170,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1512,3 +1513,15 @@ tags:
 languages:
   - ruby
 >>>>>>> 3c30dd0274c95f87fbb62fa267da23969f7d20fe
+=======
+tags:
+  - strings
+  - hashes
+  - yaml
+  - iteration
+  - bonus
+languages:
+  - ruby
+resources: 5
+level: introductory hash iteration
+>>>>>>> 419c8ac9aad2256bb99bce81fed502b287680eed
