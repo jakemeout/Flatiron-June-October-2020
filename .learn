@@ -98,6 +98,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -881,9 +882,14 @@ languages:
   - ruby
 >>>>>>> dcf59ff4c5faa0e6e66ee6a59a5b262965c93384
 =======
+=======
+>>>>>>> 1ca331ca1e3295c141b2dcd382b3117a445ed02b
 tags:
 - readme
 languages:
 - undefined
     
+<<<<<<< HEAD
 >>>>>>> 07fa5d44bc8f2cf08e2bbf22321125bc20f34766
+=======
+>>>>>>> 1ca331ca1e3295c141b2dcd382b3117a445ed02b

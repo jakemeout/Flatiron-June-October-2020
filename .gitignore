@@ -92,6 +92,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 29c8e8be12a28c75296b1f6cd449a81592c0ee68
 =======
@@ -1563,3 +1564,26 @@ tmp
 =======
     
 >>>>>>> 07fa5d44bc8f2cf08e2bbf22321125bc20f34766
+=======
+.DS_Store
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+lib-cov
+build/Release
+node_modules
+jspm_packages
+.npm
+.node_repl_history
+.results.json
+/.bundle
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/log/*
+!/log/.keep
+/tmp
+    
+>>>>>>> 1ca331ca1e3295c141b2dcd382b3117a445ed02b
