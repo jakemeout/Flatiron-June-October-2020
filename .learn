@@ -104,6 +104,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -923,3 +924,12 @@ languages:
 >>>>>>> 3e80beb6b8dff9b0d1c1cabd7b6d1a84b78eb9bf
 =======
 >>>>>>> 79847399ba7ce3f63c38f6c079f4fc1598833ba7
+=======
+tags:
+  - hashes
+  - micro
+  - introduction
+languages:
+  - ruby
+resources: 1
+>>>>>>> 2bab68f0e8f004950b7a0fce751faf661c939a74
