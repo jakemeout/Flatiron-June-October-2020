@@ -213,6 +213,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1851,10 +1852,13 @@ resources:
   - 0
 >>>>>>> 0f8ef317b6e07e47672aba3ccf9ca62a8a293648
 =======
+=======
+>>>>>>> 588646919c45ed35b22e55f463bce69c43d961f1
 tags:
   - sinatra
 languages:
   - ruby
+<<<<<<< HEAD
 resources: 0
 >>>>>>> 431dab51c94f26a4e0712abb033d85b03495ea87
 =======
@@ -1896,3 +1900,6 @@ languages:
 resources:
   - 0
 >>>>>>> 836d3d8dd03422b7b0d78addad5a24be6d3bbea7
+=======
+resources: 0
+>>>>>>> 588646919c45ed35b22e55f463bce69c43d961f1
