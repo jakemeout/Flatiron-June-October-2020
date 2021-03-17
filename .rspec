@@ -12,6 +12,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --require spec_helper
 --format documentation
 =======
@@ -62,3 +63,7 @@
 --require spec_helper
 --fail-fast
 >>>>>>> 151666767fc8fc3b3fa98732acfa12d6461adf4e
+=======
+--format documentation
+--require spec_helper
+>>>>>>> 2dee682cef2a9d29a97bc21fede69847340c9856
