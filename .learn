@@ -211,6 +211,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1876,3 +1877,12 @@ languages:
 =======
 resources: 0
 >>>>>>> 36066cd458ff94b700441d5be1907cd64de6335a
+=======
+tags:
+  - sinatra
+  - forms
+  - post
+  - routes
+languages:
+  - ruby
+>>>>>>> c2842e147113b3bde81e41a341e7f1f9c6d7effc
