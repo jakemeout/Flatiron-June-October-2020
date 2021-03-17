@@ -137,6 +137,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1203,9 +1204,22 @@ tags:
   - new app
   - basic app
   - introduction
+=======
+tags:
+  - index
+  - create
+  - forms
+  - params
+  - form_tag
+  - redirects
+>>>>>>> 253358e58100f687175234b9431da46f2583a5db
 languages:
   - ruby
 type: 
   - lab
+<<<<<<< HEAD
 resources: 2
 >>>>>>> 18e38fc6921fb2a69e3865fbb8f0cb481cae561f
+=======
+resources: 2
+>>>>>>> 253358e58100f687175234b9431da46f2583a5db
