@@ -52,6 +52,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -478,3 +479,10 @@ languages:
 - none
     
 >>>>>>> 7dd2cc1cb55f51ce6754c792105b55698fcf6ee7
+=======
+tags:
+- lab
+languages:
+- Ruby
+    
+>>>>>>> 0ff57bcda829cef27ab59214bbf7b31616717a1d

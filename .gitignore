@@ -53,6 +53,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 29c8e8be12a28c75296b1f6cd449a81592c0ee68
 =======
@@ -706,6 +707,8 @@ node_modules
 >>>>>>> 6bc19bc477d9eda015ca969eb2c33c1c76b779f0
 =======
 >>>>>>> 7dd2cc1cb55f51ce6754c792105b55698fcf6ee7
+=======
+>>>>>>> 0ff57bcda829cef27ab59214bbf7b31616717a1d
 .DS_Store
 logs
 *.log
@@ -727,6 +730,7 @@ jspm_packages
 !/log/.keep
 /tmp
     
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -813,3 +817,5 @@ yarn.lock
 >>>>>>> 029b0074225f9d5b06f8c1d7ff2d194cb2be9ad8
 =======
 >>>>>>> 7dd2cc1cb55f51ce6754c792105b55698fcf6ee7
+=======
+>>>>>>> 0ff57bcda829cef27ab59214bbf7b31616717a1d
