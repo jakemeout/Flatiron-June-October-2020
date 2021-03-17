@@ -33,6 +33,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -327,3 +328,10 @@ tags:
 >>>>>>> e0557d9f8c59ceec3d8cdb0b75dba24341df5ff3
 =======
 >>>>>>> 621f4cd1c329cf086b7cd8d35c5cbc943e72b753
+=======
+tags:
+- events
+languages:
+- JavaScript
+    
+>>>>>>> 3c47e42b950b605cc3096a39ea8b49749fc0c466
