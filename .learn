@@ -62,6 +62,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -572,3 +573,14 @@ tags:
 languages:
   - HTML
 >>>>>>> a0fca8fbcebba0cf390273ee7bd2bd57065b54a3
+=======
+tags:
+  - HTML
+  - Tables
+  - table
+  - th
+  - tr
+  - td
+languages:
+  - HTML
+>>>>>>> 948aa94f8d15e8b412f9c59cfcf699ae73b487c5
