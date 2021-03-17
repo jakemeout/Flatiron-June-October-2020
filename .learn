@@ -145,6 +145,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -814,10 +815,17 @@ tags:
 tags:
   - javascript
 >>>>>>> dbca60fca99aec6e0f043a7af41f7ba8bac1be7e
+=======
+tags:
+  - javascript
+  - react
+  - redux
+>>>>>>> aea74060f9b682287a3aacd45c7c4ecbbf84fe1b
 languages:
   - javascript
 resources:
   - 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> cca72bb9a67fde3c5b72053fabf7934d1a95c23f
@@ -1302,3 +1310,5 @@ languages:
   - jsx
 resources: 0
 >>>>>>> d78e355c960ebe47ca1db51e74871ccf1bf157de
+=======
+>>>>>>> aea74060f9b682287a3aacd45c7c4ecbbf84fe1b
