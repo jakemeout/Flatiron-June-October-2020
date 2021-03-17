@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -33,3 +34,12 @@ languages:
   - ruby
 resources: 2
 >>>>>>> 315045e919e83c20b7ba8ac28b3df352360a20eb
+=======
+tags:
+  - activerecord
+  - todo
+  - introductory
+languages:
+  - ruby
+resources: 3
+>>>>>>> 5016083aed1f1216cb48ec00624d8ecd9324629f
