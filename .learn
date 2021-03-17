@@ -171,6 +171,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1525,3 +1526,13 @@ languages:
 resources: 5
 level: introductory hash iteration
 >>>>>>> 419c8ac9aad2256bb99bce81fed502b287680eed
+=======
+tags:
+  - hashes
+  - iteration
+  - data structures
+  - sorting
+languages:
+  - ruby
+resources: 1
+>>>>>>> 8ef81e35546312493d02c3aae49b681ef3874973
