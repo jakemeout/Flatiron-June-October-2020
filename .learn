@@ -138,6 +138,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1213,13 +1214,24 @@ tags:
   - form_tag
   - redirects
 >>>>>>> 253358e58100f687175234b9431da46f2583a5db
+=======
+tags:
+  - rest
+  - restful routing
+  - rest lab
+  - routing
+>>>>>>> cdd1df92057fd9088ad22aeb7716d711073f5ad2
 languages:
   - ruby
 type: 
   - lab
+<<<<<<< HEAD
 <<<<<<< HEAD
 resources: 2
 >>>>>>> 18e38fc6921fb2a69e3865fbb8f0cb481cae561f
 =======
 resources: 2
 >>>>>>> 253358e58100f687175234b9431da46f2583a5db
+=======
+resources: 2
+>>>>>>> cdd1df92057fd9088ad22aeb7716d711073f5ad2
