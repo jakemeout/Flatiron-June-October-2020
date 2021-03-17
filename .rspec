@@ -91,6 +91,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --color
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -627,3 +628,8 @@
 --require spec_helper
 --format documentation
 >>>>>>> 1432d2337fccbd345df45790b9651eb67bb9f1bb
+=======
+--color
+--require rails_helper
+--format documentation
+>>>>>>> a3b70950f7618c5bd7a08c94e3e0860cd36a67cd
