@@ -64,6 +64,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -594,3 +595,12 @@ tags:
   - no solution
 resources: 1
 >>>>>>> 438d7cc9ae4e9123067717f5364133f5fa5d6026
+=======
+tags:
+  - typography
+  - images
+  - links
+languages:
+  - html
+  - css
+>>>>>>> 5322b84a91fe3a208a7c9ce70b209858f04a2010
