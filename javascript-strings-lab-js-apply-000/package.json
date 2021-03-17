@@ -1,25 +1,48 @@
 {
+<<<<<<< HEAD:javascript-strings-lab-js-apply-000/package.json
   "name": "javascript-strings-lab",
   "version": "0.1.0",
   "description": "JavaScript Strings Lab for Learn.co",
   "main": "strings.js",
   "scripts": {
     "test": "node_modules/.bin/mocha -R mocha-multi --reporter-options nyan=-,json=.results.json"
+=======
+  "name": "js-data-structures-objects-lab",
+  "version": "0.1.0",
+  "description": "Learn.co's practice with manipulating JavaScript objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000 -R mocha-multi --reporter-options spec=-,json=.results.json --timeout 10000"
+>>>>>>> cca72bb9a67fde3c5b72053fabf7934d1a95c23f:package.json
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/learn-co-curriculum/javascript-strings-lab.git"
+    "url": "git+https://github.com/learn-co-curriculum/js-data-structures-objects-lab.git"
   },
   "keywords": [
+<<<<<<< HEAD:javascript-strings-lab-js-apply-000/package.json
     "learn",
     "javascript",
     "strings"
   ],
   "author": "@pletcher",
+=======
+    "javascript",
+    "for",
+    "while",
+    "loops",
+    "looping",
+    "learn.co",
+    "flatiron school",
+    "code-along"
+  ],
+  "author": "Flatiron School",
+>>>>>>> cca72bb9a67fde3c5b72053fabf7934d1a95c23f:package.json
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/learn-co-curriculum/javascript-strings-lab/issues"
+    "url": "https://github.com/learn-co-curriculum/js-data-structures-objects-lab/issues"
   },
+<<<<<<< HEAD:javascript-strings-lab-js-apply-000/package.json
   "homepage": "https://github.com/learn-co-curriculum/javascript-strings-lab#readme",
   "devDependencies": {
     "babel-core": "^6.11.4",
@@ -29,5 +52,17 @@
     "mocha": "^2.5.3",
     "mocha-jsdom": "^1.1.0",
     "mocha-multi": "^0.9.0"
+=======
+  "homepage": "https://github.com/learn-co-curriculum/js-data-structures-objects-lab#readme",
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "chai": "^4.2.0",
+    "file-system": "^2.2.2",
+    "jsdom": "^9.0",
+    "mocha": "^5.2.0",
+    "mocha-jsdom": "~1.1.0",
+    "mocha-multi": "^1.0.1"
+>>>>>>> cca72bb9a67fde3c5b72053fabf7934d1a95c23f:package.json
   }
 }
