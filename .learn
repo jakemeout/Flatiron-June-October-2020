@@ -215,6 +215,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1910,3 +1911,12 @@ resources: 0
 =======
 resources: 0
 >>>>>>> a6b7fafc1550d31c7b5a2e3fe41a47e3cb4bb126
+=======
+tags:
+  - sinatra
+  - mvc
+languages:
+  - ruby
+  - sinatra
+resources: 1
+>>>>>>> db81ff98bf121c3ca632587ab662bcf75d90d87d
