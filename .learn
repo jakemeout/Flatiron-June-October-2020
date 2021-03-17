@@ -20,6 +20,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -232,3 +233,12 @@ type:
   - lab
 resources: 0
 >>>>>>> 5a548d012954a8ac78f04025a053df3ef1189ff4
+=======
+tags:
+  - HTML
+  - CSS
+languages:
+  - HTML
+  - CSS
+resources: 1
+>>>>>>> d6be348f4d05f3f44f99a1dc27356e4dd2c3d311
