@@ -1,0 +1,7 @@
+<marquee><h1>|Doggies-----Doggies----------Doggies--------Doggies------Doggies-|</h1></marquee>
+
+
+<h4>Employee number</h4>
+<% @dogs.each_with_index do  |dog, i| %>
+<h2><%= link_to "#{i+1} #{dog.name}", dog_path(dog)%></h2><br>
+<% end %>
