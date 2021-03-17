@@ -179,6 +179,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1598,3 +1599,14 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 7e4deb5b5f1d410bf57a7931d0540d22279f475d
+=======
+tags:
+  - oop
+  - tutorial
+  - basics
+  - attr_accessor
+  - attr_reader
+languages:
+  - ruby
+resources: 2
+>>>>>>> e9e9ededd5ca42d1fb86fc9cd9c0ac227d3e37c1
