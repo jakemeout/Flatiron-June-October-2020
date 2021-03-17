@@ -8,6 +8,7 @@ insert_final_newline = true
 [*{.java,.py}]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 indent_size = 4
 =======
 indent_size = 2
@@ -15,6 +16,9 @@ indent_size = 2
 =======
 indent_size = 2
 >>>>>>> 1173931351840c88bb1ae6a768567cf6561cf6ec
+=======
+indent_size = 4
+>>>>>>> 26528dc8b2f492695e0814667f72570bb4a8c6c1
 
 [*.{js,json,rb}]
 charset = utf-8

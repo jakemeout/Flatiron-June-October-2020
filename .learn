@@ -148,6 +148,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -829,10 +830,15 @@ tags:
   - react
   - redux
 >>>>>>> 1173931351840c88bb1ae6a768567cf6561cf6ec
+=======
+tags:
+  - javascript
+>>>>>>> 26528dc8b2f492695e0814667f72570bb4a8c6c1
 languages:
   - javascript
 resources:
   - 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1328,3 +1334,5 @@ resources: 0
 >>>>>>> 1173931351840c88bb1ae6a768567cf6561cf6ec
 =======
 >>>>>>> 135c6666e58002352f9a8dfba4894375593c6774
+=======
+>>>>>>> 26528dc8b2f492695e0814667f72570bb4a8c6c1
