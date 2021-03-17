@@ -29,6 +29,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 29c8e8be12a28c75296b1f6cd449a81592c0ee68
 =======
@@ -577,3 +578,7 @@ tmp/*
 node_modules
 .results.json
 >>>>>>> 6014c39c994d720f833e54d354a8db69f4c9ca74
+=======
+.DS_Store
+node_modules
+>>>>>>> 9339a7a12681a44da1aea430d0e3b5b6702b6816
