@@ -26,6 +26,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 29c8e8be12a28c75296b1f6cd449a81592c0ee68
 =======
@@ -555,3 +556,7 @@ jspm_packages
 >>>>>>> bd4fbb2ed54d1c4407fddbf529422f4636a277b4
 =======
 >>>>>>> 198a8a337dd335ee396c9232fca955e4bb3ea9c5
+=======
+db/development.sqlite3
+tmp/*
+>>>>>>> f8105ee10c4a066efe1f2e9d3d11aeaa32a8591a
