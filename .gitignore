@@ -63,6 +63,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 29c8e8be12a28c75296b1f6cd449a81592c0ee68
 =======
@@ -969,3 +970,6 @@ yarn.lock
 =======
 .DS_Store
 >>>>>>> f164090d7c7ab7a237157c84272e5f607221939f
+=======
+.DS_Store
+>>>>>>> a0fca8fbcebba0cf390273ee7bd2bd57065b54a3
