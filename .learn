@@ -86,6 +86,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -793,3 +794,12 @@ languages:
 resources:
   - http://guides.rubyonrails.org/action_controller_overview.html#filters
 >>>>>>> aacbf73099f68be6a618720b9472eba253244774
+=======
+tags:
+  - react
+  - redux
+  - mapStateToProps
+languages:
+  - javascript
+resources: 0
+>>>>>>> d8efa2f0b47361baeebe42f3298c3c4dc03b67d6
