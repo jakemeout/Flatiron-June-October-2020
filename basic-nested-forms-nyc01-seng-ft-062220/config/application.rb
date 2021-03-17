@@ -12,6 +12,7 @@ module BasicNestedForms
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
 <<<<<<< HEAD:basic-nested-forms-nyc01-seng-ft-062220/config/application.rb
+<<<<<<< HEAD:basic-nested-forms-nyc01-seng-ft-062220/config/application.rb
 
     # Set Time.zone default to the specified zone and make Active Record auto-convert to this zone.
     # Run "rake -D time" for a list of tasks for finding time zone names. Default is UTC.
@@ -25,5 +26,7 @@ module BasicNestedForms
     config.active_record.raise_in_transactional_callbacks = true
 =======
 >>>>>>> bd4fbb2ed54d1c4407fddbf529422f4636a277b4:config/application.rb
+=======
+>>>>>>> e240b7bf8a57eb97c60bd38e613254a7835a19d0:config/application.rb
   end
 end

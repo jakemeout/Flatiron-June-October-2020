@@ -1,3 +1,9 @@
+<<<<<<< HEAD:activerecord-lifecycle-reading-nyc01-seng-ft-062220/bin/bundle
 #!/usr/bin/env ruby
 ENV['BUNDLE_GEMFILE'] ||= File.expand_path('../../Gemfile', __FILE__)
 load Gem.bin_path('bundler', 'bundle')
+=======
+ENV['BUNDLE_GEMFILE'] ||= File.expand_path('../Gemfile', __dir__)
+
+require 'bundler/setup' # Set up gems listed in the Gemfile.
+>>>>>>> e240b7bf8a57eb97c60bd38e613254a7835a19d0:config/boot.rb

@@ -1,3 +1,2 @@
-class Author < ActiveRecord::Base
-  has_many :posts
+class Author < ApplicationRecord
 end

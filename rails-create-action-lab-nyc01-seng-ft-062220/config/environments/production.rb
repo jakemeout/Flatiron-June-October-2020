@@ -54,7 +54,11 @@ Rails.application.configure do
 
   # Use a real queuing backend for Active Job (and separate queues per environment)
   # config.active_job.queue_adapter     = :resque
+<<<<<<< HEAD:rails-create-action-lab-nyc01-seng-ft-062220/config/environments/production.rb
   # config.active_job.queue_name_prefix = "arlab_#{Rails.env}"
+=======
+  # config.active_job.queue_name_prefix = "blog_flash_#{Rails.env}"
+>>>>>>> e240b7bf8a57eb97c60bd38e613254a7835a19d0:config/environments/production.rb
   config.action_mailer.perform_caching = false
 
   # Ignore bad email addresses and do not raise email delivery errors.
