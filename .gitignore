@@ -143,6 +143,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 29c8e8be12a28c75296b1f6cd449a81592c0ee68
 =======
@@ -2485,6 +2486,8 @@ yarn.lock
 >>>>>>> dbca60fca99aec6e0f043a7af41f7ba8bac1be7e
 =======
 
+=======
+>>>>>>> 71c58ab2f77fe495bdc38349e32c5a7b8cecd3b3
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
@@ -2506,6 +2509,7 @@ yarn.lock
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 >>>>>>> d78e355c960ebe47ca1db51e74871ccf1bf157de
 =======
 # See http://help.github.com/ignore-files/ for more about ignoring files.
@@ -2537,3 +2541,5 @@ npm-debug.log
 =======
 .DS_Store
 >>>>>>> 26528dc8b2f492695e0814667f72570bb4a8c6c1
+=======
+>>>>>>> 71c58ab2f77fe495bdc38349e32c5a7b8cecd3b3
