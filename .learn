@@ -75,6 +75,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -701,3 +702,14 @@ resources:
 ---
 languages: []
 >>>>>>> e8c2e7d3021e56c9d7ca45a56279bb6561263b52
+=======
+tags:
+  - for
+  - while
+  - loops
+  - looping
+  - code-along
+languages:
+  - javascript
+resources: 5
+>>>>>>> 7a21c89a8cd25de13c642411b230e195cf173309
