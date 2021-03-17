@@ -1,0 +1,13 @@
+<h1><%= @instrument.name%></h1>
+<b>Insturment Classification:</b> <%= @instrument.classification %><br>
+    <% if @instrument.artists.empty? %>
+    <%= print "This artist has no instruments" %>
+    <% else %>
+<b>Artists who play this intrument</b><% @instrument.artists.each do |artist| %>
+     <li><%= artist.name %></li> 
+    <% end %>
+    <% end %>
+
+
+
+
