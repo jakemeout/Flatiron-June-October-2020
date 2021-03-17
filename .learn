@@ -71,6 +71,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -657,3 +658,12 @@ resources:
 =======
   - 0
 >>>>>>> de6024319ff563f701e0a41995a8fa02041138ab
+=======
+tags:
+  - rails
+  - join tables
+  - todo
+languages:
+  - ruby
+resources: 1
+>>>>>>> bfb9678a861b3dde3d4a44d463eaf63aa21771df
