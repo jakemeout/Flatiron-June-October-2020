@@ -187,6 +187,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1666,3 +1667,12 @@ resources: 0
 =======
 resources: 0
 >>>>>>> 19610474db234c4d13248e472b4b5c720b87f462
+=======
+tags: 
+  - object orienation
+  - inheritance
+languages: 
+  - Ruby
+resources: 
+  - 0
+>>>>>>> 6c74233e82d530934289b0007dd8213dc8ed0b7a
