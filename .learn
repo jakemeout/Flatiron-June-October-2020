@@ -164,6 +164,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1464,3 +1465,10 @@ resources: 0
 >>>>>>> 65a80bd6c70ea952cfced0f1fc215e3331db271f
 =======
 >>>>>>> 7b2c4f79dfabe11fba9b35b24fb254cf42dcb4fd
+=======
+tags:
+  - redux
+languages:
+  - javascript
+resources: 0
+>>>>>>> a938763a8babdf9797c359e7ab4fa8087675346e
