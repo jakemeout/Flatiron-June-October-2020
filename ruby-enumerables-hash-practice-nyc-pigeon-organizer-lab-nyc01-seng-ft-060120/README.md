@@ -92,6 +92,10 @@ pigeon_list = {
 }
 ```
 
+**Note**: Comparing the original hash with the expected output above, you will see
+that some of the original keys are **symbols**, like `:male` and `:female`, but in the 
+expected output, these have been converted into **strings**.
+
 Write your code in the provided `nyc_pigeon_organizer` method. The tests in this
 lab will use this method, passing in the original `pigeon_data` hash. Use
 `learn` and the test results to guide your progress.
@@ -123,6 +127,16 @@ Even though the names are different, the hash follows the same format as our
 original `pigeon_data`, so passing this hash into the `nyc_pigeon_organizer`
 should result in a new hash with "Luca" and "Lola" as the top level keys,
 pointing to hashes with their particular attributes.
+
+## Video Walkthrough
+
+Take some time to try to solve this challenge on your own. However, if you find
+yourself stuck, check out the video below. As mentioned in the video, there are
+many possible solutions to this lab. Use it to help you get unstuck - while watching,
+try to identify the specific steps you were struggling with. If you find the answer
+you were looking for before the end, keep going with your own solution!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xhBMsclze68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusion
 
