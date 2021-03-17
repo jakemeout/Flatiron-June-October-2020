@@ -117,6 +117,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -583,11 +584,14 @@ languages:
 >>>>>>> 60898978572da3fdd47433caad18c718991e9882
 =======
 >>>>>>> 3dd87d108d2dea4128b49397e7c8988f993e6508
+=======
+>>>>>>> 51ff12a04fdc3a5806bae7dc3ff240f0ed6fa577
 tags:
 - lab
 languages:
 - Ruby
     
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1018,3 +1022,5 @@ tags:
 >>>>>>> 60898978572da3fdd47433caad18c718991e9882
 =======
 >>>>>>> 3dd87d108d2dea4128b49397e7c8988f993e6508
+=======
+>>>>>>> 51ff12a04fdc3a5806bae7dc3ff240f0ed6fa577
