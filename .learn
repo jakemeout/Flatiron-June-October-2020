@@ -65,6 +65,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -604,3 +605,13 @@ languages:
   - html
   - css
 >>>>>>> 5322b84a91fe3a208a7c9ce70b209858f04a2010
+=======
+tags:
+  - HTML
+  - front-end
+  - web page
+  - video
+languages:
+  - HTML
+resources: 1
+>>>>>>> 72ceb06312f1eeefdd09d92c505b354d76fac982
