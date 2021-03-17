@@ -1,5 +1,6 @@
 ---
 :lessons:
+<<<<<<< HEAD
 - :id: 6474
   :course_id: 328
   :canvas_url: https://learning.flatironschool.com/courses/328/assignments/6474
@@ -15,4 +16,9 @@
 - :id: 6480
   :course_id: 328
   :canvas_url: https://learning.flatironschool.com/courses/328/assignments/6480
+=======
+- :id: 5015
+  :course_id: 154
+  :canvas_url: https://learning.flatironschool.com/courses/154/assignments/5015
+>>>>>>> 395f3bc1a4edaf46209de986d640dcdc9cccb9f3
   :type: assignment
