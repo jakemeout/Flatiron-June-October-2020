@@ -194,6 +194,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 29c8e8be12a28c75296b1f6cd449a81592c0ee68
 =======
@@ -2265,6 +2266,8 @@ Gemfile.lock
 =======
 =======
 >>>>>>> 3c5fec7396ca929d2c8441153953fc6a33d42056
+=======
+>>>>>>> dc15fe81b1fd9b412cb6304bfeb6628dabd93262
 .DS_Store
 .idea
 
@@ -2277,6 +2280,7 @@ tmp
 *.log
 *.swp
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 .results.json
 >>>>>>> de6024319ff563f701e0a41995a8fa02041138ab
@@ -3413,3 +3417,6 @@ Gemfile.lock
 =======
 db/*.db
 >>>>>>> 3c5fec7396ca929d2c8441153953fc6a33d42056
+=======
+db/*.db
+>>>>>>> dc15fe81b1fd9b412cb6304bfeb6628dabd93262

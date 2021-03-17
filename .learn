@@ -201,6 +201,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -254,11 +255,14 @@ resources: 3
 >>>>>>> de6024319ff563f701e0a41995a8fa02041138ab
 =======
 >>>>>>> 180500e2491ccad99677f9ac3e3aeeb7c0cb4632
+=======
+>>>>>>> dc15fe81b1fd9b412cb6304bfeb6628dabd93262
 tags:
   - a tag
 languages:
   - a language
 resources: 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - 0
@@ -1794,3 +1798,6 @@ resources: 2
 languages:
 - ruby
 >>>>>>> 3c5fec7396ca929d2c8441153953fc6a33d42056
+=======
+  - 0
+>>>>>>> dc15fe81b1fd9b412cb6304bfeb6628dabd93262
