@@ -159,6 +159,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -848,10 +849,15 @@ tags:
 tags:
   - javascript
 >>>>>>> efe140c18faa50816317b320bd4daf7f117ae2e5
+=======
+tags:
+  - javascript
+>>>>>>> 3cdf4538caf45018a5ff7edc28ab70d7b256fa93
 languages:
   - javascript
 resources:
   - 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1424,3 +1430,5 @@ languages: []
 >>>>>>> 0b9b3b29977f33230dc07a0e72b8572f9cd561d1
 =======
 >>>>>>> 47ab6d15c94e83b23940e3dfeeb17cb538806cd7
+=======
+>>>>>>> 3cdf4538caf45018a5ff7edc28ab70d7b256fa93
