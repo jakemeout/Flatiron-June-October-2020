@@ -72,6 +72,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 29c8e8be12a28c75296b1f6cd449a81592c0ee68
 =======
@@ -1095,3 +1096,18 @@ Gemfile.lock
 
 *.solution.*
 >>>>>>> e66c86b6e836378a4c096fc70db3b24a9befbd10
+=======
+.DS_Store
+.idea
+
+log
+node_modules
+out
+tmp
+
+*.iml
+*.log
+*.swp
+
+.results.json
+>>>>>>> de6024319ff563f701e0a41995a8fa02041138ab

@@ -70,6 +70,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -116,11 +117,14 @@ languages:
 resources: 3
 >>>>>>> 5016083aed1f1216cb48ec00624d8ecd9324629f
 =======
+=======
+>>>>>>> de6024319ff563f701e0a41995a8fa02041138ab
 tags:
   - a tag
 languages:
   - a language
 resources: 
+<<<<<<< HEAD
   - 0
 >>>>>>> 617a31e24ee7534e8c0be172ed132f90052d3ba8
 =======
@@ -650,3 +654,6 @@ resources:
 >>>>>>> e663fc9957ac977a392e297f3a4765fd48833861
 =======
 >>>>>>> e66c86b6e836378a4c096fc70db3b24a9befbd10
+=======
+  - 0
+>>>>>>> de6024319ff563f701e0a41995a8fa02041138ab
