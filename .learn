@@ -133,6 +133,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1161,3 +1162,13 @@ type:
   - lab
 resources: 2
 >>>>>>> a7e0dbe08d8e0a7a2ca9897ce0ce8fd7b105a7b3
+=======
+tags:
+  - rails
+  - forms
+languages:
+  - ruby
+  - rails
+resources:
+  - 0
+>>>>>>> 2b8b2f62685918718adc0b5f15d99ecb296c5297
