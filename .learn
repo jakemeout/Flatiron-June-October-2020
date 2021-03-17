@@ -50,6 +50,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -455,3 +456,16 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 95774fd045fb0e0cbfe86645aa896a43aeffade5
+=======
+tags:
+  - lab
+  - git
+  - github
+  - pull
+  - push
+  - remote
+  - no solution branch possible
+languages:
+  - none
+resources: 0
+>>>>>>> 029b0074225f9d5b06f8c1d7ff2d194cb2be9ad8
