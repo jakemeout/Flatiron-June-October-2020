@@ -202,6 +202,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1006,12 +1007,18 @@ resources: 1
 =======
 tags:
   - session
+=======
+tags:
+  - session
+  - sessions_controller
+>>>>>>> 175c3158744b57ffc9fd63a593b11f0922c22f89
   - before_filter
   - login
 languages:
   - Ruby
 resources:
   - http://guides.rubyonrails.org/action_controller_overview.html#filters
+<<<<<<< HEAD
 >>>>>>> aacbf73099f68be6a618720b9472eba253244774
 =======
 tags:
@@ -1801,3 +1808,5 @@ languages:
 =======
   - 0
 >>>>>>> dc15fe81b1fd9b412cb6304bfeb6628dabd93262
+=======
+>>>>>>> 175c3158744b57ffc9fd63a593b11f0922c22f89
