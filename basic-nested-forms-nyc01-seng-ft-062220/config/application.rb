@@ -1,4 +1,4 @@
-require File.expand_path('../boot', __FILE__)
+require_relative 'boot'
 
 require 'rails/all'
 
@@ -11,6 +11,7 @@ module BasicNestedForms
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
+<<<<<<< HEAD:basic-nested-forms-nyc01-seng-ft-062220/config/application.rb
 
     # Set Time.zone default to the specified zone and make Active Record auto-convert to this zone.
     # Run "rake -D time" for a list of tasks for finding time zone names. Default is UTC.
@@ -22,5 +23,7 @@ module BasicNestedForms
 
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
+=======
+>>>>>>> bd4fbb2ed54d1c4407fddbf529422f4636a277b4:config/application.rb
   end
 end
