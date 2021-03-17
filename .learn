@@ -132,6 +132,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1147,3 +1148,16 @@ type:
   - readme
 resources: 0
 >>>>>>> bf54ec880111593df1d46e0024487efdcd8b8ed8
+=======
+tags:
+  - form_for
+  - rails forms
+  - form_tag
+  - forms
+  - ActiveView
+languages:
+  - ruby
+type: 
+  - lab
+resources: 2
+>>>>>>> a7e0dbe08d8e0a7a2ca9897ce0ce8fd7b105a7b3
