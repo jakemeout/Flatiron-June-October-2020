@@ -732,8 +732,10 @@ languages:
 >>>>>>> d175457d439a6608c43527b5933b7ff92346d8dd
 =======
 tags:
-- readme
+- code-along
+- rails
+- api
 languages:
-- undefined
+- ruby
     
 >>>>>>> 824285b41f56e5b1f3c2a9d90022899fc95a787e
