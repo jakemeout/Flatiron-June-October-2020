@@ -12,6 +12,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -139,3 +140,13 @@ resources: 0
 languages:
 - javascript
 >>>>>>> e6ffebeaddee306c7520d70591d4e4e6a5c92340
+=======
+tags:
+  - user input
+  - looping
+  - cli
+  - gets
+languages:
+  - ruby
+resources: 0
+>>>>>>> bc3932886b551e89ae341a18bd86b4bcba0a917e
