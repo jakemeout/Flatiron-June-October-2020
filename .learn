@@ -92,6 +92,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -838,3 +839,13 @@ resources: 0
 languages:
 - ruby
 >>>>>>> 29b32bbf31bef74e2d98dd59c5a36ff6aa8e5195
+=======
+tags:
+  - ORM
+  - SQL
+languages:
+  - Ruby
+  - SQL
+resources:
+  - 0
+>>>>>>> 3c5e258988864df339bf7afc1f65bd02318af696
