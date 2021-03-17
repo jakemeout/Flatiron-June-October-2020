@@ -10,6 +10,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -122,3 +123,13 @@ resources: 0
 >>>>>>> 4836f200359163eaadb49e780503e4d34a43f108
 =======
 >>>>>>> 60288315085f12041bddf3af09d98dfbe9d7ae3c
+=======
+tags:
+  - sinatra
+  - forms
+  - html
+languages:
+  - ruby
+  - html
+resources: 0
+>>>>>>> 216f4ec9314302f47cc1b5b472a608281bf46b18
