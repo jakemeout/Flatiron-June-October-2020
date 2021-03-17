@@ -14,6 +14,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -161,3 +162,13 @@ languages:
   - ruby
 resources: 3
 >>>>>>> 97b2836fa81f9e722b26252e83f0351b654f16aa
+=======
+tags:
+  - conditionals
+  - cli
+  - looping
+  - loops
+languages:
+  - ruby
+resources: 1
+>>>>>>> a35a255d8639cc399e54bd3bee727bdecabe4b53
