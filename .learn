@@ -197,6 +197,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1759,3 +1760,10 @@ resources: 1
 languages:
 - ruby
 >>>>>>> 332ec659432e11a03e08a6c89e362ddf24bcefc7
+=======
+tags:
+  - oop
+languages:
+  - ruby
+resources: 1
+>>>>>>> 309dd80987312a9d5479c3b5e932d40513827180
