@@ -212,6 +212,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1886,3 +1887,12 @@ tags:
 languages:
   - ruby
 >>>>>>> c2842e147113b3bde81e41a341e7f1f9c6d7effc
+=======
+tags:
+  - sinatra
+  - controller
+languages:
+  - Ruby
+resources:
+  - 0
+>>>>>>> 836d3d8dd03422b7b0d78addad5a24be6d3bbea7
