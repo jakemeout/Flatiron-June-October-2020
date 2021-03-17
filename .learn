@@ -73,6 +73,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -683,8 +684,15 @@ resources:
   - lab
   - data structures
   - objects
+=======
+tags:
+  - javascript
+>>>>>>> 765b748ff6618e26d7d46c281f147011011b6afd
 languages:
   - javascript
 resources:
   - 1
+<<<<<<< HEAD
 >>>>>>> cca72bb9a67fde3c5b72053fabf7934d1a95c23f
+=======
+>>>>>>> 765b748ff6618e26d7d46c281f147011011b6afd
