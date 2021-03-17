@@ -160,6 +160,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1432,3 +1433,12 @@ languages: []
 >>>>>>> 47ab6d15c94e83b23940e3dfeeb17cb538806cd7
 =======
 >>>>>>> 3cdf4538caf45018a5ff7edc28ab70d7b256fa93
+=======
+tags:
+  - readme
+  - debugging
+  - errors
+languages:
+  - ruby
+resources: 0
+>>>>>>> 537620d75ee7aec925f825557a40ff259a93f862
