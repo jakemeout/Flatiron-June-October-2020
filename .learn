@@ -209,6 +209,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1859,3 +1860,12 @@ resources: 0
 =======
 resources: 0
 >>>>>>> aee486316b39b84a709cd78075dc290f5f063278
+=======
+tags:
+  - sinatra
+  - routes
+  - dynamic routes
+  - params
+languages:
+  - ruby
+>>>>>>> 17f9899cb00f96c77126285ce003b2ffdb31d171
