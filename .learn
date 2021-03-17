@@ -154,6 +154,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1385,3 +1386,12 @@ resources:
 >>>>>>> ff5c7e6a96cc8e88fe96cedcbd7d63cd2cceecb6
 =======
 >>>>>>> aea8687d9c6fa78a074bf94db0e354ff39bf4674
+=======
+tags:
+  - react
+  - props
+  - lab
+languages:
+  - javascript
+resources: 0
+>>>>>>> 66dcac37c0e87817303ae175ec97a6727604f95b
