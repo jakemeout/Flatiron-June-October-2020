@@ -17,6 +17,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --require spec_helper
 --format documentation
 =======
@@ -89,3 +90,7 @@
 --require spec_helper
 --fail-fast
 >>>>>>> 3a5e97c1f41e5a08306d7ecd621f038936205c5a
+=======
+--require spec_helper
+--format d
+>>>>>>> 4732f6a3c58c5a70b818900f032b0bee02d83b46

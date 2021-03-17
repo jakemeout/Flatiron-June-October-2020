@@ -22,6 +22,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -254,3 +255,12 @@ languages:
   - html
   - css
 >>>>>>> 3a5e97c1f41e5a08306d7ecd621f038936205c5a
+=======
+tags:
+  - rails
+  - associations
+  - lab
+languages:
+  - ruby
+resources: 0
+>>>>>>> 4732f6a3c58c5a70b818900f032b0bee02d83b46
