@@ -225,6 +225,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1987,12 +1988,15 @@ resources: 0
 resources: 0
 >>>>>>> 22acb1921683f6badff73a36b65cc912bf799165
 =======
+=======
+>>>>>>> e48cb6778c38a3d988f1e9c1db6a0f8337b1646b
 tags:
   - sql
   - database
 languages:
   - ruby
   - sql
+<<<<<<< HEAD
 resources: 0
 >>>>>>> 44ef01ab0e874afc10c30688f47f1e9c00ed749b
 =======
@@ -2006,3 +2010,6 @@ languages:
   - sql
 resources: 1
 >>>>>>> 203f9e41459188b96c330376403200fc6026570c
+=======
+resources: 3
+>>>>>>> e48cb6778c38a3d988f1e9c1db6a0f8337b1646b
