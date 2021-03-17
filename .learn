@@ -162,6 +162,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1448,3 +1449,12 @@ resources: 0
 languages:
 - ruby
 >>>>>>> 63d56cab7a2828850da779e1b7d3b7ff41e1a662
+=======
+tags:
+  - readme
+  - debugging
+  - pry
+languages:
+  - ruby
+resources: 0
+>>>>>>> 65a80bd6c70ea952cfced0f1fc215e3331db271f
