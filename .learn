@@ -26,6 +26,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -284,3 +285,7 @@ resources: 0
 languages:
 - ruby
 >>>>>>> 41e2cd10ee3f6d11b3b68420937bf9d4e1b92d3d
+=======
+languages:
+  - javascript
+>>>>>>> 6014c39c994d720f833e54d354a8db69f4c9ca74
