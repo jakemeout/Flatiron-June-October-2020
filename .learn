@@ -188,6 +188,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1676,3 +1677,12 @@ languages:
 resources: 
   - 0
 >>>>>>> 6c74233e82d530934289b0007dd8213dc8ed0b7a
+=======
+tags:
+  - inheritance
+  - super
+  - subclass
+languages:
+  - ruby
+resources: 0
+>>>>>>> 752b2897e4002e3904792a1e6e671e8d06bbd042
