@@ -198,6 +198,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1767,3 +1768,13 @@ languages:
   - ruby
 resources: 1
 >>>>>>> 309dd80987312a9d5479c3b5e932d40513827180
+=======
+tags:
+  - opening classes
+  - oop
+  - self
+  - micro
+languages:
+  - ruby
+resources: 2
+>>>>>>> e6c64641996c43f566b5d2d4f6fd6e8651402e2f
