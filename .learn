@@ -18,6 +18,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -196,10 +197,13 @@ languages:
 resources: 0
 >>>>>>> 151666767fc8fc3b3fa98732acfa12d6461adf4e
 =======
+=======
+>>>>>>> f5587a69a4f187c1a863ba91a34edc3ce267a5aa
 languages:
   - html
   - css
 tags:
+<<<<<<< HEAD
   - dev tools
   - developer tools
   - style
@@ -211,3 +215,8 @@ tags:
   - kids
 resources: 3
 >>>>>>> 2dee682cef2a9d29a97bc21fede69847340c9856
+=======
+  - validation
+  - errors
+resources: 1
+>>>>>>> f5587a69a4f187c1a863ba91a34edc3ce267a5aa
