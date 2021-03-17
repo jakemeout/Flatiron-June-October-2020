@@ -1,3 +1,7 @@
  {
+<<<<<<< HEAD
    "presets": ["airbnb", "react", "env", "stage-1"]
+=======
+   "presets": ["react", "env", "stage-1"]
+>>>>>>> 1173931351840c88bb1ae6a768567cf6561cf6ec
  }
