@@ -58,6 +58,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -532,3 +533,15 @@ resources: 0
 =======
   - ruby
 >>>>>>> 3a312d73378e01de43549c4b75d97022964d65d4
+=======
+languages:
+  - html
+tags:
+  - elements
+  - headings
+  - typography
+  - images
+  - links
+  - beginner
+  
+>>>>>>> 852f4737c0fbdabed5c8bcb4fb535b4c2dad0be6
