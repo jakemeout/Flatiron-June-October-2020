@@ -48,6 +48,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -433,3 +434,13 @@ resources:
 >>>>>>> 6bc19bc477d9eda015ca969eb2c33c1c76b779f0
 =======
 >>>>>>> bf2d57b3283f5212f61810c94a75da102d81b090
+=======
+tags:
+  - rails
+  - associations
+  - migrations
+  - foreign keys
+languages:
+  - ruby
+resources: 1
+>>>>>>> 2d1b269af9a0ff128ce64fed4ba127379ba50b11
