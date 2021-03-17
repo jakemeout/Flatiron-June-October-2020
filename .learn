@@ -222,6 +222,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -345,10 +346,13 @@ resources:
 >>>>>>> 321052761ae1404ce740578c6c92b50495e1ab94
 =======
 >>>>>>> 0ab9a7b322f44c271b52b50b893c52e6472b2535
+=======
+>>>>>>> 22acb1921683f6badff73a36b65cc912bf799165
 tags:
   - tag1
 languages:
   - language1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1977,3 +1981,6 @@ languages:
   - ruby
 resources: 0
 >>>>>>> 516132f7572ed9b3c35e4cbc8cd2a9f23b735173
+=======
+resources: 0
+>>>>>>> 22acb1921683f6badff73a36b65cc912bf799165
