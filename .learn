@@ -166,6 +166,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1467,11 +1468,14 @@ resources: 0
 =======
 >>>>>>> 7b2c4f79dfabe11fba9b35b24fb254cf42dcb4fd
 =======
+=======
+>>>>>>> d61e7de75541200c07e49323a7052995ab9a5587
 tags:
   - redux
 languages:
   - javascript
 resources: 0
+<<<<<<< HEAD
 >>>>>>> a938763a8babdf9797c359e7ab4fa8087675346e
 =======
 tags:
@@ -1481,3 +1485,5 @@ languages:
   - react
 resources: 0
 >>>>>>> 725a1d964a5f022364cca32d52e0b197bf7502dd
+=======
+>>>>>>> d61e7de75541200c07e49323a7052995ab9a5587
