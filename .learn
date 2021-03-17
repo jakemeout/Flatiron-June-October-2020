@@ -180,6 +180,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1610,3 +1611,11 @@ languages:
   - ruby
 resources: 2
 >>>>>>> e9e9ededd5ca42d1fb86fc9cd9c0ac227d3e37c1
+=======
+tags:
+  - oop
+  - tdd
+languages:
+  - ruby
+resources: 1
+>>>>>>> 6dfd5aa53d3d5efc78807d49f8606af4ff9c26f6
