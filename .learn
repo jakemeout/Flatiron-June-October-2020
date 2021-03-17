@@ -77,6 +77,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -715,10 +716,16 @@ languages:
 resources: 5
 >>>>>>> 7a21c89a8cd25de13c642411b230e195cf173309
 =======
+=======
+>>>>>>> d175457d439a6608c43527b5933b7ff92346d8dd
 tags:
 - code-along
 - rails
 - api
 languages:
+<<<<<<< HEAD
 - ruby
 >>>>>>> bf24493fb01e5ea6ad8047c792cbfd857179f1a4
+=======
+- ruby
+>>>>>>> d175457d439a6608c43527b5933b7ff92346d8dd

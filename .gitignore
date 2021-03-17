@@ -79,6 +79,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 29c8e8be12a28c75296b1f6cd449a81592c0ee68
 =======
@@ -1132,6 +1133,8 @@ node_modules
 .results.json
 >>>>>>> cca72bb9a67fde3c5b72053fabf7934d1a95c23f
 =======
+=======
+>>>>>>> d175457d439a6608c43527b5933b7ff92346d8dd
 .DS_Store
 logs
 *.log
@@ -1152,6 +1155,7 @@ jspm_packages
 /log/*
 !/log/.keep
 /tmp
+<<<<<<< HEAD
 
 # See https://help.github.com/articles/ignoring-files for more about ignoring files.
 #
@@ -1302,3 +1306,6 @@ tmp
 
     
 >>>>>>> bf24493fb01e5ea6ad8047c792cbfd857179f1a4
+=======
+    
+>>>>>>> d175457d439a6608c43527b5933b7ff92346d8dd
