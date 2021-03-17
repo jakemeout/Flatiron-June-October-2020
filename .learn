@@ -9,6 +9,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -107,6 +108,8 @@ languages:
   - ruby
 >>>>>>> d41c11a84ad7527eeab8257bb1c8141fc27b7b55
 =======
+=======
+>>>>>>> 60288315085f12041bddf3af09d98dfbe9d7ae3c
 tags:
   - nested forms
   - nested params
@@ -115,4 +118,7 @@ tags:
 languages:
   - ruby
 resources: 0
+<<<<<<< HEAD
 >>>>>>> 4836f200359163eaadb49e780503e4d34a43f108
+=======
+>>>>>>> 60288315085f12041bddf3af09d98dfbe9d7ae3c
