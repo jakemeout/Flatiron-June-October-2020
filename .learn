@@ -169,6 +169,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1501,3 +1502,13 @@ resources: 0
 >>>>>>> 6bd058bbc00bf94e4f8fd5d04ea1cbe1095ce17e
 =======
 >>>>>>> a63623aeeee0dfa7e950f047fcd015ffd2c42d47
+=======
+tags:
+  - enumerable
+  - iteration
+  - map
+  - collection
+  - each_with_index
+languages:
+  - ruby
+>>>>>>> 3c30dd0274c95f87fbb62fa267da23969f7d20fe
