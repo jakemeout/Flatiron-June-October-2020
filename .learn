@@ -226,6 +226,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2013,3 +2014,16 @@ resources: 1
 =======
 resources: 3
 >>>>>>> e48cb6778c38a3d988f1e9c1db6a0f8337b1646b
+=======
+tags:
+  - sql
+  - joins
+  - select
+  - create
+  - insert
+  - update
+  - join tables
+  - intermediate
+languages:
+  - sql
+>>>>>>> 824ff32e8752934546d691781d3e94d70f1937fa
