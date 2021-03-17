@@ -175,6 +175,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -435,10 +436,14 @@ languages:
 tags:
   - rails
   - associations
+=======
+tags:
+>>>>>>> 5c5a3765ce422941c71317bcd0d6f48e7599a250
   - lab
 languages:
   - ruby
 resources: 0
+<<<<<<< HEAD
 >>>>>>> 4732f6a3c58c5a70b818900f032b0bee02d83b46
 =======
 resources: 0
@@ -1560,3 +1565,5 @@ resources: 0
   - ruby
 resources: 2
 >>>>>>> 3b09819ab0a21110637bbd3807ba189f377c0e89
+=======
+>>>>>>> 5c5a3765ce422941c71317bcd0d6f48e7599a250
