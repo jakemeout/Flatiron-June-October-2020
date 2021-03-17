@@ -219,6 +219,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1946,3 +1947,12 @@ resources: 2
 =======
 resources: 0
 >>>>>>> 0ab9a7b322f44c271b52b50b893c52e6472b2535
+=======
+tags:
+  - shotgun
+  - sinatra
+  - rackup
+languages:
+  - ruby
+resources: []
+>>>>>>> b26c96b1097d45bac9fed992de331ad4e32fbfda
