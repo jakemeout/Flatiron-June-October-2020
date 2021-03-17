@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  {
 <<<<<<< HEAD
    "presets": ["airbnb", "react", "env", "stage-1"]
@@ -5,3 +6,8 @@
    "presets": ["react", "env", "stage-1"]
 >>>>>>> 1173931351840c88bb1ae6a768567cf6561cf6ec
  }
+=======
+{
+  "presets": ["airbnb", "env", "stage-1", "react"]
+}
+>>>>>>> efe140c18faa50816317b320bd4daf7f117ae2e5
