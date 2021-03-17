@@ -178,6 +178,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1587,3 +1588,13 @@ languages:
   - Ruby
 resources: 0
 >>>>>>> daf421102190d8b49af6a3575f7e9824f9f494ac
+=======
+tags:
+  - oop
+  - attr_accessor
+  - attr_reader
+  - class constants
+languages:
+  - ruby
+resources: 0
+>>>>>>> 7e4deb5b5f1d410bf57a7931d0540d22279f475d
