@@ -165,6 +165,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1472,3 +1473,11 @@ languages:
   - javascript
 resources: 0
 >>>>>>> a938763a8babdf9797c359e7ab4fa8087675346e
+=======
+tags:
+  - undefined
+languages:
+  - javascript
+  - react
+resources: 0
+>>>>>>> 725a1d964a5f022364cca32d52e0b197bf7502dd
