@@ -113,6 +113,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -928,11 +929,14 @@ languages:
 =======
 =======
 >>>>>>> 1ca331ca1e3295c141b2dcd382b3117a445ed02b
+=======
+>>>>>>> ee64d487d06f399bb27e3bba2f27315f1eeec09f
 tags:
 - readme
 languages:
 - undefined
     
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 07fa5d44bc8f2cf08e2bbf22321125bc20f34766
 =======
@@ -994,3 +998,5 @@ tags:
   - named parameters
   - advanced
 >>>>>>> 653dd891324c6cb6845659855218760ed27fc63a
+=======
+>>>>>>> ee64d487d06f399bb27e3bba2f27315f1eeec09f
