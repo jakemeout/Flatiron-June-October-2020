@@ -195,6 +195,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1744,3 +1745,11 @@ resources: 0
 >>>>>>> e1c3b7289fc70edeafe12e37f95e694d680a1ec0
 =======
 >>>>>>> 72e4b964a01921cf516abd8fa5db961caab8ac3b
+=======
+tags:
+  - oo
+  - beginner
+languages:
+  - ruby
+resources: 1
+>>>>>>> 4036933be9fd62a138f3555b0996b22438cc039a
