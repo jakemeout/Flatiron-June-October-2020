@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  {
 <<<<<<< HEAD
    "presets": ["airbnb", "react", "env", "stage-1"]
@@ -11,3 +12,8 @@
   "presets": ["airbnb", "env", "stage-1", "react"]
 }
 >>>>>>> efe140c18faa50816317b320bd4daf7f117ae2e5
+=======
+{
+  "presets": ["airbnb", "es2015", "stage-0", "react"]
+}
+>>>>>>> ff5c7e6a96cc8e88fe96cedcbd7d63cd2cceecb6
