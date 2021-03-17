@@ -199,6 +199,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1763,10 +1764,17 @@ languages:
 >>>>>>> 332ec659432e11a03e08a6c89e362ddf24bcefc7
 =======
 tags:
+=======
+tags:
+  - oo
+  - object relations
+  - todo
+>>>>>>> 441971b2046d408046c1fab68262ab5b8e6cf916
   - oop
 languages:
   - ruby
 resources: 1
+<<<<<<< HEAD
 >>>>>>> 309dd80987312a9d5479c3b5e932d40513827180
 =======
 tags:
@@ -1778,3 +1786,5 @@ languages:
   - ruby
 resources: 2
 >>>>>>> e6c64641996c43f566b5d2d4f6fd6e8651402e2f
+=======
+>>>>>>> 441971b2046d408046c1fab68262ab5b8e6cf916
