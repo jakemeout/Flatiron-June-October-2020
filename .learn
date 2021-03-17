@@ -13,6 +13,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -150,3 +151,13 @@ languages:
   - ruby
 resources: 0
 >>>>>>> bc3932886b551e89ae341a18bd86b4bcba0a917e
+=======
+tags:
+  - user input
+  - cli
+  - looping
+  - gets
+languages:
+  - ruby
+resources: 3
+>>>>>>> 97b2836fa81f9e722b26252e83f0351b654f16aa
