@@ -32,6 +32,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 29c8e8be12a28c75296b1f6cd449a81592c0ee68
 =======
@@ -587,6 +588,8 @@ node_modules
 =======
 =======
 >>>>>>> e0a06d5a1eb0bb98aa45678e65331a25bcea0323
+=======
+>>>>>>> 44f1ed9fecafba918f31acbaf5c40f11640d704f
 .DS_Store
 logs
 *.log
@@ -609,6 +612,9 @@ jspm_packages
 /tmp
     
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 1232c04853d81a226fbc0aea1c61e43ef16c8e16
 =======
 >>>>>>> e0a06d5a1eb0bb98aa45678e65331a25bcea0323
+=======
+>>>>>>> 44f1ed9fecafba918f31acbaf5c40f11640d704f
