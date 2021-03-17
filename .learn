@@ -123,6 +123,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1059,3 +1060,13 @@ resources:
 =======
 resources: 0
 >>>>>>> fb8401f877e6449a0e363cc8ce65fae2e5b455da
+=======
+tags:
+  - rack
+  - mechanics
+  - http
+languages:
+  - ruby
+resources: 
+  - 0
+>>>>>>> d731629b7750940cc3c1188c472cfc1175311093
